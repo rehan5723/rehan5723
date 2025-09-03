@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rehan Maniyar</h1>
-<h3 align="center">Full Stack web developer in MERN Stack</h3>
+<h3 align="center">Web developer in MERN Stack</h3>
 
-- I'm currently learning **AWS and Cloud Services**
+- I'm currently learning **Full Stack Development**
 
 - 👨‍💻 Resume [https://drive.google.com/file/d/1w29V1yzD1NjXgSv9rj_6nV-GEvw3v98Y/view?usp=drivesdk](https://drive.google.com/file/d/1w29V1yzD1NjXgSv9rj_6nV-GEvw3v98Y/view?usp=drivesdk)
 
