@@ -3,7 +3,7 @@
 
 - I'm currently learning **Full Stack Development**
 
-- 👨‍💻 Resume [https://drive.google.com/file/d/1w29V1yzD1NjXgSv9rj_6nV-GEvw3v98Y/view?usp=drivesdk](https://drive.google.com/file/d/1w29V1yzD1NjXgSv9rj_6nV-GEvw3v98Y/view?usp=drivesdk)
+- 👨‍💻 Resume [[https://drive.google.com/file/d/1w29V1yzD1NjXgSv9rj_6nV-GEvw3v98Y/view?usp=drivesdk](https://drive.google.com/file/d/1g3dC87z5UU91nF5CuEnb9E7GUZgXPoJ_/view?usp=drive_link)]([https://drive.google.com/file/d/1w29V1yzD1NjXgSv9rj_6nV-GEvw3v98Y/view?usp=drivesdk](https://drive.google.com/file/d/1g3dC87z5UU91nF5CuEnb9E7GUZgXPoJ_/view?usp=drive_link))
 
 - 📫 How to reach me **rehanmaniyar0205@gmail.com**
 
